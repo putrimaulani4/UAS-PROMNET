@@ -1,6 +1,8 @@
-===========================================================
 PROYEK UAS: APLIKASI EDUKOMPUTER (LARAVEL 11)
-===========================================================
+
+Nurhasanah Maulani Putri
+C2383207041
+PTI-5B
 
 Deskripsi:
 Aplikasi manajemen konten komponen komputer yang mendukung 
